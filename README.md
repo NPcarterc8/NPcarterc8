@@ -18,15 +18,12 @@ I'm a **Computer Science student** at the State University of New York at New Pa
 - **Google CodeNext (Student Member)**  
   Participated in workshops, improved coding skills, and collaborated on projects that fostered technical and problem-solving abilities.
 
-### 🚀 Projects
+### 🚀 Current Projects
 - **New Paltz Whiteboard**  
   A learning management system with a scheduling feature aimed at improving user experience in organizing classes. Built with **PHP, SQL, HTML, and CSS**.
 
 - **LLM-Driven Bioinformatics Pipeline**  
   Developed a tool using **Python** and **Jupyter Notebook** to streamline workflow creation in bioinformatics, reducing technical barriers for wet-lab biologists.
-
-- **Door Scanner**  
-  Created a secure door access system with **JavaScript**, **Google Spreadsheets**, and **Arduino**, integrating ID verification and database management for real-time access control.
 
 ### 📫 Get in Touch
 - **Email**: coreyc538@gmail.com
